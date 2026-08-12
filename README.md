@@ -2,6 +2,11 @@
 
 A full-stack resume builder built on the MERN stack, letting users create, customize, download, and publicly share professional resumes — with AI-powered text enhancement to help polish their content.
 
+## 🔗 Live Demo
+
+[resume-builder-inky-kappa.vercel.app](https://resume-builder-inky-kappa.vercel.app/)
+
+
 ## ✨ Features
 
 - 📄 **PDF Export** — Download your resume as a clean, print-ready PDF
