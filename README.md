@@ -116,7 +116,6 @@ resume-builder/
 - [ ] Add more templates
 - [ ] Resume analytics for public links (views count)
 - [ ] Export to DOCX
-- [ ] Dark mode
 
 ## 🤝 Contributing
 
